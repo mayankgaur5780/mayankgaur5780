@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">Having 7+ years of experience specializing in custom software solutions for various industries. Expertise in PHP, Laravel, Node.js and JavaScript.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankgaur5780" alt="mayankgaur5780" /></a> </p>
 
 - 🌱 I’m currently learning **React.Js**
 
