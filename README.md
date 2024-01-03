@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mayankgaur5780@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q-VM1J88yZ7hqoTrTrjoij8x4OkBs7bo/view](https://drive.google.com/file/d/1Q-VM1J88yZ7hqoTrTrjoij8x4OkBs7bo/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K-zkgsmkgHnJ5w7wzWk12eyhA37QG9r2/view](https://drive.google.com/file/d/1K-zkgsmkgHnJ5w7wzWk12eyhA37QG9r2/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
