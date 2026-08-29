@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayank Sharma  
 
-🚀 **Senior Backend Engineer (9+ yrs)** | PHP (Laravel/Symfony) | Node.js (Express.js)  
+🚀 **Senior Backend Engineer (10+ yrs)** | PHP (CI/Laravel/Symfony) | Node.js (Express.js/React.js) | AWS | AI/LLM/GenAI  
 📍 India | 📧 **mayankgaur5780@gmail.com** | 📞 +91 7838960686  
 
 ---
