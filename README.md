@@ -13,16 +13,17 @@
 
 ## 🛠 Tech Stack  
 💻 **Backend:** PHP, Laravel, Symfony, Node.js, Express.js  
-🗄 **DB:** MySQL, PostgreSQL, MongoDB, Clickhouse  
-⚡ **Caching/Search:** Redis, Elasticsearch  
-☁️ **Cloud:** AWS (EC2, S3, Lambda, CloudWatch)  
+💻 **Frontend:** HTML, CSS, JS, React.js  
+🗄 **DB:** MySQL, PostgreSQL, MongoDB  
+⚡ **Caching/Search:** Redis  
+☁️ **Cloud:** AWS (EC2, S3, Lambda, CloudWatch, ParameterStore)  
 🔐 **Auth/APIs:** REST, JWT, Socket.IO  
 💳 **Payments:** PayPal, PayU, HyperPay, PayTabs  
 
 ---
 
 ## 💼 Experience  
-🏢 **Escalon Business Services** (2024–Present) — HUB CRM (HR, Payroll, Compliance)  
+🏢 **Escalon Business Services** (2024–2026) — HUB CRM (HR, Payroll, Compliance)  
 🏢 **Z1 Tech** (2022–2024) — Campaign Automation CRM (Google Ads, FB, Taboola)  
 🏢 **Tefe Information Pvt. Ltd.** (2019–2022) — HRMS + Real-time systems (Socket.IO)  
 🏢 **WebMaazix / Tali Shift Media** (2015–2019) — CRM + eCommerce modules  
